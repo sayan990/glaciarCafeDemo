@@ -8,7 +8,7 @@ function About() {
           <div className="md:w-1/2">
             <div className="bg-gray-200 border-2 border-dashed rounded-xl w-full h-96 flex items-center justify-center">
               <img 
-                src="https://images.unsplash.com/photo-1521012012373-6a85bade18da?q=80" 
+                src="/about.jpg" 
                 alt="Personas felices en Glaciar Café" 
                 className="w-full h-full object-cover rounded-xl"
               />
